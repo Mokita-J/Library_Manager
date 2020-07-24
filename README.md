@@ -7,21 +7,25 @@ This project simulates a simple library management software. This program mantai
 Java 1.8+ must be installed.
 
 ## Installing via Git
-git clone https://github.com/Mokita-J/Library_Manager.git
+`git clone https://github.com/Mokita-J/Library_Manager.git`
 
 ## Set classpath
+```
 cd Library_Manager
 export CLASSPATH=./m19-app/m19-app.jar:./m19-core/m19-core.jar:./po-uuilib/po-uuilib.jar:.
+```
 
 ## Run by typing:
+```
 make
 java m19.app.App
+```
 
 ## Run tests by typing:
-./runtests.sh
+`./runtests.sh`
 
-In case you get this error bash: ./runtests.sh: Permission denied run
-
+In case you get this error `bash: ./runtests.sh: Permission denied `run
+```
 chmod +x runtests.sh
-
+```
 This project was in cooperation with [@MargaridaMoreira](https://github.com/MargaridaMoreira). :wink: Check her out!
