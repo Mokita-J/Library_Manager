@@ -3,6 +3,8 @@
 ## About
 This project simulates a simple library management software. This program mantains information about the availability of books and DVD's and their details. It also allows users to request and keep track of the number of days they have to return these items. This program also manages all of the library users' files, in which their details can be checked. If any user fails to comply to the library rules, for example, doesn't return a book on time, he/she won't be able to request more works until a fine is paid.
 
+This project was submitted for Object-oriented programming, a curricular subject of CS Degree at IST. Final Grade: 17.72
+
 ## Requirements
 Java 1.8+ must be installed.
 
